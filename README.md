@@ -1,0 +1,1 @@
+This is a simple CL calculator program written in Python progaramming Language and take two numbers as input and computes their addition, subtraction, multiplication and division. The results of all four operations are displayed to the user.
